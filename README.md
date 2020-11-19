@@ -1,15 +1,10 @@
-![logo](https://snipcart.com/media/204485/logo.svg)
+# Kimsa - Página en Construcción
 
-# Planty Stackbit theme
+[![Kimsa](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://www.facebook.com/EcoKimsa)
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&ssg=jekyll)
-
-Planty is an e-commerce ready custom theme for Stackbit created by [Snipcart](http://bit.ly/2YB7AUL).
-
-This theme can be used to create an e-commerce ready website through Stackbit's platform. You'll get
-everything you need from products listing, categorization, FAQ, etc.
-
-You can see it in action right [here](https://stackbit-theme-planty.netlify.com).
-
-> To learn more about Stackbit and its custom themes feature, [read this post](http://bit.ly/2YAvGix).
+<object data="https://raw.githubusercontent.com/Crisben/kimsa/master/Cat%C3%A1logo%20KIMSA%20-%20Nov.pdf" type="application/pdf" width="1100px" height="800px">
+    <embed src="https://raw.githubusercontent.com/Crisben/kimsa/master/Cat%C3%A1logo%20KIMSA%20-%20Nov.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/Crisben/kimsa/master/Cat%C3%A1logo%20KIMSA%20-%20Nov.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 

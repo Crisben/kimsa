@@ -1,5 +1,1 @@
-<object data="https://kimsa.ec/Catalogos/Catalogo_KIMSA_Nov.pdf" type="application/pdf" width="800px" height="800px">
-    <embed src="https://kimsa.ec/Catalogos/Catalogo_KIMSA_Nov.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://kimsa.ec/Catalogos/Catalogo_KIMSA_Nov.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 75%;"><div data-url="https://issuu.com/kimsaec/docs/catalogo_kimsa_nov" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></div>

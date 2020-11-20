@@ -1,11 +1,8 @@
 ---
-layout: 		post
-title: Conferencias R-Estadística
-comments:		true
-noToc:			true
+title: Conferencias
 ---
 
-Conferencias R-Estadística
+Conferencias ca
 ===================
 
 <object data="https://kimsa.ec/Catalogos/Catalogo_KIMSA_Nov.pdf" type="application/pdf" width="1100px" height="800px">

@@ -1,1 +1,2 @@
-<div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 75%;"><div data-url="https://issuu.com/kimsaec/docs/catalogo_kimsa_nov" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></div>
+
+<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=vxj2uxzy6z" width="100%" height="480" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>

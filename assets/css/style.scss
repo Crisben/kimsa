@@ -1,3 +1,8 @@
-&lt;style type="text/css"&gt;
-h1.pagetitle {display:none;}
-&lt;/style&gt;
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}

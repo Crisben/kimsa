@@ -1,2 +1,1 @@
-
-<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=vxj2uxzy6z" width="100%" height="480" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
+<iframe width="720px" height="461px" src="https://www.yumpu.com/es/embed/view/apHNKqJcCGnow6MQ" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe>
